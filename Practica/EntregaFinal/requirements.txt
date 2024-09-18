@@ -1,0 +1,10 @@
+pandas
+seaborn
+numpy
+sklearn
+plotly
+yellowbrick
+warnings
+IPython
+ucimlrepo
+skopt
